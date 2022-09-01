@@ -1,0 +1,46 @@
+
+.parent{
+
+    background-color: rgb(8, 5, 5);
+    width: 22%;
+    height: 1227px;
+    margin-left: 1480px;
+    border-radius: 101px;
+    margin-top: 200px;
+}
+body{
+    background-color: rgb(146, 109, 54);
+}
+.col{
+    background-color: beige;
+    width: 826px;
+    height: 138px;
+    border-radius: 189px;
+    border: black solid 5px;
+    margin-left: 33px;
+    
+}
+.col-1{
+    margin-top:325% ;
+}
+input{
+    width: 80%;
+    height: 209px;
+    border: 9px solid rgb(151, 95, 21);
+    
+    margin-top: 57px;
+    margin-left: 77px;
+    color: black;
+    font-size: 100px;
+
+    
+}
+button{
+    width: 104PX;
+    height: 126px;
+    margin-top: 92px;
+    margin-left: 95px;
+    border: solid 16px rgb(56, 56, 9);
+    color:yellowgreen ;
+    font-size: 43px;}
+
